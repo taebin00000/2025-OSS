@@ -1,5 +1,5 @@
-# 2024-OSS 수정
-2024-2 오픈소스소프트웨어 교과목
+# 2025-OSS
+2025-2 오픈소스소프트웨어 교과목
 
 ## 강환수 교수의 유튜브 강좌
 - [걍교수의 AIT code](https://www.youtube.com/@aitcode)
@@ -7,9 +7,10 @@
 
 ## 중간고사와 기말고사
 - 중간고사 범위
-  - 1주와 6주 대면수업 내용
+  - 1주와 5주 대면수업 내용
   - 2주에서 8주까지 온라인 원격수업(#01-18 동영상과 자료)
 - 기말고사 범위
+  - 14주 대면수업
   - 전체 수업 범위
 
 ## 개인과제: 다음 내용을 디자인 함께 평가
@@ -22,7 +23,7 @@
   - [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
   - [B반](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing)
 - 과제마감일
-  - 2024.12.06(금)
+  - 2025.12.10(일)
 
 ## 팀과제: 다음 내용을 디자인과 팀원들의 협업 활동 평가
 - 내용과 함께 깃허브의 다양한 기능 사용 평가
@@ -34,7 +35,7 @@
   - [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
   - [B반](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing)
 - 과제마감일
-  - 2024.12.06(금)
+  - 2025.12.10(일)
  
 > - 사례1: ‘오픈소스소프트웨어 보고서’ 구축
 >   - OSS 개요, OSS 역사
