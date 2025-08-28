@@ -32,8 +32,8 @@
   - 내용 파일은 md 파일로 작성
   - 팀원의 활동이 축적 
 - 팀과제 주소 업로드
-  - [A반](https://docs.google.com/spreadsheets/d/1h9_Mlgt9wpgLoEXxeexH0rVLXnje0cYH-NCQoqE1eXg/edit?usp=sharing)
-  - [B반](https://docs.google.com/spreadsheets/d/1N_nsCXXCHMTXm5z-7ULzgeUfiKECTVSyBsfPgSHF98I/edit?usp=sharing)
+  - [A반(월요일 오전)]()
+  - [B반(월요일 오후)]()
 - 과제마감일
   - 2025.12.10(일)
  
